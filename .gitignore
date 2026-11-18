@@ -1,0 +1,51 @@
+# --- Scratch folder for quick trials ---
+scratch/
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*~
+*.swp
+*.bak
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+.quarto/
+.ipynb_checkpoints/
+
+# LaTeX build leftovers
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# --- Operating-system clutter ---
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# --- Passwords, keys and secrets ---
+.env
+.env.*
+.Renviron
+*.key
+*.pem
+*.p12
+*secret*
+*credential*
+*password*
+*token*
+
+# --- Large files ---
+# Git cannot ignore files by size. Any file over 50 MB must be listed here by
+# name (or kept out of the repository and re-created by a download script).
+# The large raw data file will be added here when it is downloaded.
