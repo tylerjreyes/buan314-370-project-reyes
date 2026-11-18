@@ -11,3 +11,5 @@
 | 2026-11-18 | Prompt 2.1 (Search for candidate data sets) | Listed 6 sources; licenses not stated on any page; ranked state 2020-present file first; noted ddPCR results listed from 2017 | none |
 | 2026-11-18 | Prompt 3.1 (Build the project skeleton) | Created folder layout, README, .gitignore, CLAUDE.md (R) and documentation files with table headings | README.md, .gitignore, CLAUDE.md, documentation/*.md, folder placeholders (.gitkeep) |
 | 2026-11-18 | Pasted the course CLAUDE.md rules text (with "[R | ]" left in) | Confirmed CLAUDE.md already saved with the same rules and Language set to R; no change made | none |
+| 2026-11-18 | Prompt 3.2 (Connect the folder to GitHub), username tylerjreyes | Checked for files over 50 MB (none); put folder under Git; first commit 9539edd; I published it as a public repo with GitHub Desktop; confirmed GitHub main = 9539edd | .git (new), documentation/prompt_log.md |
+| 2026-11-18 | Prompt 1.4 (Critique my wording), three drafts of my statements | Listed problems only; counts fell from 5/6/7 to 1/2/3 to 0/0/1; saved my third draft verbatim to proposal.md | documentation/proposal.md, documentation/prompt_log.md |
